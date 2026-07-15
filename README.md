@@ -17,7 +17,7 @@
 - 📊 Learning Data Analysis, Deep Learning, and Natural Language Processing
 - 🌱 Building beginner-friendly AI and Machine Learning projects
 - 🚀 Interested in solving real-world problems with AI
-- 🎯 Goal: Become a skilled AI Engineer and contribute to innovative AI solutions
+- 🎯 Goal: Become an AI Engineer
 
 ---
 
@@ -37,7 +37,6 @@
 ## 📂 Featured Projects
 
 - 🤖 Loan Prediction using Machine Learning
-- 🧠 EmoSense – Multimodal Emotion-Aware Learning Assistant (Final Year Project)
 - 📊 Machine Learning & Data Analysis Projects
 - 🍽️ Restaurant Ordering & Billing System (C++)
 - 🎓 University Attendance System (C++)
@@ -67,7 +66,6 @@
 - Deep Learning
 - Natural Language Processing (NLP)
 - Streamlit
-- Data Visualization
 - Git & GitHub
 
 ---
@@ -94,11 +92,11 @@
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/wajiha-haleem-0850a234a/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:khanwajiha637@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -107,15 +105,11 @@
 ---
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=wajiha442&label=Profile%20Views&color=8A2BE2&style=flat"/>
-
 </p>
 
 ---
 
 <h3 align="center">
-
 ⭐ Thanks for visiting my GitHub Profile! ⭐
-
 </h3>
